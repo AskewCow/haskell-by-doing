@@ -20,12 +20,6 @@ Whether you're just starting out or brushing up, this course will walk you throu
 
 # 🧠 How This Course Works
 
-<div align="center">
-    <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="200" alt="Learning process animation"/>
-    <br/>
-    <em>Learn, Practice, Build, Repeat!</em>
-</div>
-
 <br/>
 
 <details>
@@ -74,18 +68,18 @@ All lessons and notes use **Markdown (`.md`) files** for a clean, readable exper
 
 > 💡 **Tip:**
 >
-> -   Right-click any `.md` file (like `README.md`, `01-Lesson1.md`, etc.) and choose **“Open Preview”**
+> -   Right-click any `.md` file (like `README.md`, `01-Fundamentals.md`, etc.) and choose **“Open Preview”**
 > -   Or use the shortcut:
 >     -   **Mac:** `Cmd + Shift + V`
 >     -   **Windows/Linux:** `Ctrl + Shift + V`
 
-This opens a styled, easy-to-read view — perfect for:
+This opens a styled, easy-to-read view, perfect for:
 
-| 📚 What?              | 📝 File(s)     |
-| --------------------- | -------------- |
-| Lecture explanations  | `theory.md`    |
-| Your personal notes   | `/notes/*.md`  |
-| Exercise walkthroughs | lesson folders |
+| 📚 What?              | 📝 File(s)      |
+| --------------------- | --------------- |
+| Lecture explanations  | `/content/*.md` |
+| Your personal notes   | `/notes/*.md`   |
+| Exercise walkthroughs | lesson folders  |
 
 You can also **split the editor** and open the preview side-by-side with the text for even better workflow!
 
@@ -127,35 +121,38 @@ stack --version  # optional
 
 Download [Visual Studio Code](https://code.visualstudio.com/) if you don’t have it.
 
-**Recommended Extension:**
+**Recommended Extensions:**
 
-| Extension  | Publisher | Why                                                                            |
-| ---------- | --------- | ------------------------------------------------------------------------------ |
-| 🟣 Haskell | Haskell   | All-in-one support: compiling, error messages, type hints, etc. (includes HLS) |
+| Extension                      | Publisher   | Why                                                                 |
+| ------------------------------ | ----------- | ------------------------------------------------------------------- |
+| 🟣 Haskell                     | Haskell     | Full support: errors, warnings, type hints, go-to-definition (HLS). |
+| 🎨 Haskell Syntax Highlighting | Justus Adam | Adds proper syntax coloring for `.hs` files.                        |
 
-<details>
-<summary>What you <strong>do NOT</strong> need</summary>
+#### ⚠️ What you don't need:
 
--   Haskell Syntax Highlighting → Outdated, covered by the main extension
 -   Live Server or Code Runner → Not needed for Haskell
+-   Old/unmaintained Haskell extensions → stick to the two above
 
-</details>
+<br/>
 
-After installing the Haskell extension, VS Code will prompt you to install Haskell Language Server (HLS) if it isn’t already set up. **Accept that prompt.**
+After installing the Haskell extension, VS Code will prompt you to install **Haskell Language Server (HLS)** if it isn’t already set up.  
+👉 Accept that prompt.
+
+With both extensions installed, you’ll get syntax highlighting + smart Haskell editing.
 
 ---
 
 ### ✅ Step 3: Clone the Course Repo
 
-The course is pre-structured — you don’t need to create a new project. Just clone and open it:
+The course is pre-structured, i.e. you don’t need to create a new project. Just clone and open it:
 
 ```bash
 git clone https://github.com/AskewCow/haskell-by-doing
 cd haskell-course
-code .
+code . # Opens folder in vsc
 ```
 
-You’re ready to go! 🎉 Start with `01-basics/README.md`
+You’re ready to go! 🎉 Start with `01-Fundamentals/content`
 
 ---
 
