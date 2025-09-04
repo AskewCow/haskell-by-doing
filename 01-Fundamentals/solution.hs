@@ -2,11 +2,11 @@
 
 module Main where
 
--- Exercise 1: Print "Hello, Haskell!"
+-- 1️⃣ Exercise 1: Print "Hello, Haskell!"
 main :: IO ()
 main = putStrLn "Hello, Haskell!"
 
--- Exercise 2: Ask for your name and greet the user
+-- 2️⃣ Exercise 2: Ask for your name and greet the user
 greetUser :: IO ()
 greetUser = do
     putStrLn "What is your name?"

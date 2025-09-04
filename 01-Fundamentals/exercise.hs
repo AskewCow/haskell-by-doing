@@ -21,13 +21,13 @@ The tester will:
 
 module Main where
 
--- 🚀 Exercise 1: Print "Hello, Haskell!"
+-- 1️⃣ Exercise 1: Print "Hello, Haskell!"
 -- TODO: Write a program that outputs "Hello, Haskell!"
 
 main :: IO ()
 main = undefined  -- Replace 'undefined' with your solution
 
--- 👋 Exercise 2: Ask for your name and greet the user
+-- 2️⃣ Exercise 2: Ask for your name and greet the user
 -- TODO: Write a program that:
 -- 1. Asks "What is your name?"
 -- 2. Reads the user's input
