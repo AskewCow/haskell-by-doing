@@ -20,41 +20,27 @@ Whether you're just starting out or brushing up, this course will walk you throu
 
 # 🧠 How This Course Works
 
-<br/>
+## 1. 📖 Learn a Concept
 
-<details>
-<summary><strong>1. <span style="color:#6a5acd">Learn a Concept</span></strong></summary>
+-   Short, clear explanations
+-   💡 Minimal but focused code examples
+-   🎨 Visuals and edge cases explained
 
-    - 📖 Short, clear explanations
-    - 💡 Minimal but focused code examples
-    - 🎨 Visuals and edge cases explained
+## 2. 🏋️‍♂️ Try It Yourself
 
-</details>
+-   Solve challenges in each lesson folder
+-   ⬆️ Push your work to GitHub
+-   📝 Add notes on what confused you
 
-<details>
-<summary><strong>2. <span style="color:#228b22">Try It Yourself</span></strong></summary>
+## 3. 🧩 Level Up Over Time
 
-    - 🏋️‍♂️ Solve challenges in each lesson folder
-    - ⬆️ Push your work to GitHub
-    - 📝 Add notes on what confused you
+-   Each module builds on the last
+-   🧠 Develop intuition, not just syntax
 
-</details>
+## 4. 🗒️ Document What You Learn
 
-<details>
-<summary><strong>3. <span style="color:#ff8c00">Level Up Over Time</span></strong></summary>
-
-    - 🧩 Each module builds on the last
-    - 🧠 Develop intuition, not just syntax
-
-</details>
-
-<details>
-<summary><strong>4. <span style="color:#b22222">Document What You Learn</span></strong></summary>
-
-    - 🗒️ Use the built-in note system (or create your own)
-    - 🚩 Keep track of mistakes, gotchas, and “aha” moments
-
-</details>
+-   Use the built-in note system (or create your own)
+-   🚩 Keep track of mistakes, gotchas, and "aha" moments
 
 <br/>
 
