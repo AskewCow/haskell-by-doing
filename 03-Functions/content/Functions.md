@@ -3,6 +3,8 @@
 Welcome to **Functions**! ⭐
 In Haskell, functions are the **heart** of the language. You've already seen expressions and types, now you'll learn how to wrap them into reusable building blocks.
 
+> 💡 **Learning Tip:** This course includes a built-in notes system! Keep track of concepts you struggle with in one convenient place instead of re-reading entire lessons. Check out the `notes/` folder to reinforce your learning and review key insights anytime.
+
 ---
 
 ## 📝 Function Definitions
@@ -442,3 +444,19 @@ You will reinforce know how to write and use functions with:
 You'll also learn how to test your own code using instructions in [`tester.hs`](../tester.hs) - an essential programming skill.
 
 Next, we'll explore **Lists & Tuples**, Haskell's fundamental data structures that work beautifully with functions.
+
+---
+
+## 💖 Enjoying This Course?
+
+If you've made it this far and these lessons are helping you learn Haskell, I'd be incredibly grateful if you could show some love! It may seem small to you, but it truly means the world to me and helps others discover this resource.
+
+<img src="https://img.shields.io/badge/⭐-Star%20this%20repo%20if%20it%20helped%20you!-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="Star this repo"/>
+
+<br/>
+
+<a href="https://github.com/AskewCow/haskell-by-doing/stargazers">
+    <img src="https://img.shields.io/github/stars/AskewCow/haskell-by-doing?style=social&label=Star" alt="GitHub stars"/>
+</a>
+
+Thank you for being part of this learning journey! 🚀
