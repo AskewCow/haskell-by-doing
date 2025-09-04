@@ -438,6 +438,7 @@ You will reinforce know how to write and use functions with:
 -   ✅ Local definitions with where/let
 -   ✅ Function composition
 
-👉 **Head over to [`exercise.hs`](../exercise.hs)** and practice these concepts!
+👉 **Head over to** [`exercise.hs`](../exercise.hs) and practice these concepts!
+You'll also learn how to test your own code using instructions in [`tester.hs`](../tester.hs) - an essential programming skill.
 
 Next, we'll explore **Lists & Tuples**, Haskell's fundamental data structures that work beautifully with functions.
