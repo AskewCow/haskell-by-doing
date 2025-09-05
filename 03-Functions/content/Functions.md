@@ -377,7 +377,7 @@ transform 3
 
 ---
 
-## 🔄 Higher-Order Functions Preview
+## 👀 Higher-Order Functions Sneak Peak
 
 Functions can **take other functions** as arguments:
 
@@ -447,6 +447,8 @@ Next, we'll explore **Lists & Tuples**, Haskell's fundamental data structures th
 
 ---
 
+<div align="center">
+
 ## 💖 Enjoying This Course?
 
 If you've made it this far and these lessons are helping you learn Haskell, I'd be incredibly grateful if you could show some love! It may seem small to you, but it truly means the world to me and helps others discover this resource.
@@ -460,3 +462,5 @@ If you've made it this far and these lessons are helping you learn Haskell, I'd 
 </a>
 
 Thank you for being part of this learning journey! 🚀
+
+</div>
